@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Personal Web Monitor",
+  "description": "A comprehensive personal digital footprint monitoring tool that scans the web for your information, analyzes sentiment, and highlights privacy risks using AI.",
+  "requestFramePermissions": []
+}
