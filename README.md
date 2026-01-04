@@ -2,7 +2,8 @@
 
 Sentinel is a secure, AI-powered application designed to help individuals monitor their digital footprint. By leveraging the **Google Gemini API** with **Live Search Grounding**, Sentinel performs real-time scans of the open web to identify public mentions, assess privacy risks, and provide actionable insights without hallucinations.
 
-![Sentinel Dashboard](https://via.placeholder.com/1200x600?text=Sentinel+Dashboard+Preview)
+<img width="1437" height="627" alt="Screenshot 2026-01-04 at 11 49 31" src="https://github.com/user-attachments/assets/4666ceba-3aa1-49ff-a777-bd444f1ab6ba" />
+
 
 ## 🚀 Features
 
